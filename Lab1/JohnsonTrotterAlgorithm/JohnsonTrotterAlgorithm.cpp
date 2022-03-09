@@ -1,7 +1,4 @@
-﻿// JohnsonTrotterAlgorithm.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
-#include <algorithm>
+﻿#include <algorithm>
 #include <iostream>
 #include <vector>
 #include <boost/timer.hpp>
